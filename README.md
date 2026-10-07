@@ -7,6 +7,7 @@ Software Engineer
 I am a tech industry professional looking to transition into web development.
 
 *   🌍  I'm based in Austin, Tx
+*   🖥️  See my portfolio at [sebastiangiraldo.dev](http://www.sebastiangiraldo.dev)
 *   ✉️  You can contact me at [sebastiangiraldo96@gmail.com](mailto:sebastiangiraldo96@gmail.com)
 *   🧠  I'm currently learning Postgres
   <h2>Skills</h2>
