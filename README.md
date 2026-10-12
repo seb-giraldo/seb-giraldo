@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sebastian
 ==================================================================================================================================
 
-Software Engineer
+Junior Frontend Developer | React, Next.js, TypeScript, Tailwind CSS
 -----------------
 
-I am a tech industry professional looking to transition into web development.
+Frontend developer building responsive web apps with React and Next.js. Previously four years in Enterprise Client Success at Indeed
 
 *   🌍  I'm based in Austin, Tx
 *   🖥️  See my portfolio at [sebastiangiraldo.dev](http://www.sebastiangiraldo.dev)
